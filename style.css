@@ -1,0 +1,145 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+body {
+    background-color: rgb(164, 160, 160);
+}
+h1 {
+    margin-top: 100px;
+    color:rgb(19, 19, 20);
+    font-size: 45px;
+    margin-left: 300px;
+    
+    
+}
+
+.logo {
+    width: 300px;
+    margin: 25px 0px 0px 35px;
+}
+
+header {
+    text-align: center;
+}
+
+.logo {
+    text-indent: -99999px;
+    background: url(images/logo2.png);
+    float: left;
+    height: 150px;
+    width: 250px;
+    
+}
+
+.main {
+    margin-top: 120px;
+}
+
+.footer {
+    background-color: rgb(243, 235, 235);
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: lightgrey;
+}
+
+ul {
+    display: flex;
+    text-decoration: none;
+    margin-left: 45%;
+    align-content:center;
+    
+}
+
+ul li{
+    
+    display:inline-flex;
+    padding: 2%;
+    text-decoration: none;
+    margin: 2.5%;
+    font-size: 25px;
+    
+    
+}
+
+.table1 {
+    margin-top: 400px;
+    margin-left: 200px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-grow: relative;
+    margin-top: 100px;
+    
+           
+}
+
+.flex-container > div {
+    margin: 10px;
+    padding: 75px;
+    border: solid 2px;
+    width: 300px;
+
+}
+
+#div2  {
+    padding-left: 20px;
+    
+}
+
+#div2 h2 {
+    margin-left: 65px;
+}
+
+#div2 p {
+    margin-left: 65px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+div h2 {
+    font-size: 30px;
+}
+
+#header-h2 {
+    font-size: 45px;
+}
+
+.main {
+    margin-left: 10px;
+
+}
+
+#main-h2 {
+    padding-top: 50px;
+    font-size: 55px;
+    font-weight: lighter;
+    
+}
+
+.main p {
+    margin-top: 10px;
+    font-size: 35px;
+    font-weight: lighter;
+}
+
+
+
+
+.footer-container {
+    float: left;
+    padding-left: 10px;
+    margin: 10px;
+    
+}
+
