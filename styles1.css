@@ -38,8 +38,7 @@ input[type=text], select, textarea {
   }
 
   .logo {
-    text-indent: -99999px;
-    background: url(images/logo2.png);
+   
     float: left;
     height: 150px;
     width: 250px;
